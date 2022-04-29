@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;1,100&display=swap');
+*{
+  
+}
+body{
+  text-align: center;
+  height: 100vh;
+background-color: white;
+}
+
+
+
+.form
+{
+  background: #fff;
+  border: 1px solid #d8d8d8;
+  border-radius: 5px;
+  padding: 20px;
+}
+.wrapper
+{
+  max-width: 310;
+  width: 100;
+  height: auto;
+  margin: 40px auto;
+  
+}
+.form-group{
+  padding: 0px;
+  
+  font-family: Arial;
+  border: 1px;
+  width: 100%;
+
+}
+.form-group input[type="Emp ID"]
+{
+  
+  width:25%;
+  font-size: medium;
+}
+.form-group input[type="Full Name"]
+{
+  width:25%;
+  font-size: medium;
+}
+.form-group input[type="Email"]
+{
+  width:25%;
+  font-size: medium;
+}
+.form-group input[type="password"]
+{
+  width:25%;
+  font-size: medium;
+}
+.form-group input[type="Re-Enter password"]
+{
+  width:25%;
+  font-size: medium;
+}
+.btn {
+  width: 100%;
+}
+
+
+
+
+
+
+
